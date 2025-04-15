@@ -6,8 +6,8 @@ title: 吳健雄
 name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Linqiang
+last_name: He
 
 # Status emoji
 status:
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Postdoc researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
